@@ -29,20 +29,16 @@
 
 ### Projetos em Destaque
 
-* 
-**Reserva Go - Agendamento de Horários (Microsserviços)**: Arquitetura voltada para gestão de complexos esportivos com foco em segurança avançada, utilizando JWT, Refresh Tokens e Blacklist com Redis. Orquestração realizada com Docker Compose e Consul para Service Discovery.
+* **Reserva Go - Agendamento de Horários (Microsserviços)**: Arquitetura voltada para gestão de complexos esportivos com foco em segurança avançada, utilizando JWT, Refresh Tokens e Blacklist com Redis. Orquestração realizada com Docker Compose e Consul para Service Discovery.
 
 
-* 
-**SIRCA - Sistema Integrado de Reservas da Católica (TCC)**: Aplicação Full-Stack aprovada com nota máxima. Inclui integração financeira com a API do Mercado Pago e gestão de reservas online em tempo real.
+* **SIRCA - Sistema Integrado de Reservas da Católica (TCC)**: Aplicação Full-Stack aprovada com nota máxima. Inclui integração financeira com a API do Mercado Pago e gestão de reservas online em tempo real.
 
 
-* 
-**Catrolica - Reconhecimento Facial**: Sistema de Visão Computacional utilizando Python, OpenCV e dlib para processamento de imagens e controle de acesso em tempo real.
+* **Catrolica - Reconhecimento Facial**: Sistema de Visão Computacional utilizando Python, OpenCV e dlib para processamento de imagens e controle de acesso em tempo real.
 
 
-* 
-**StockManager - Gestão de Estoque Enterprise**: Sistema focado em Design Patterns (Builder e Abstract Factory), Clean Code e testes unitários com JUnit e Mockito.
+* **StockManager - Gestão de Estoque Enterprise**: Sistema focado em Design Patterns (Builder e Abstract Factory), Clean Code e testes unitários com JUnit e Mockito.
 
 
 
@@ -61,6 +57,8 @@ II Semana Acadêmica de Computação - Desenvolvendo Front-End (2023)
 ## **MicroCenter**: 
 
 Técnico Montagem e Manutenção de Micro (2018) 
+
+---
 
 ### Experiências
 
